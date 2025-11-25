@@ -1,0 +1,6 @@
+comment - cd F:\Epic Games\UE_5.4\Engine
+
+---C:\Users\brigh\Documents\"Unreal Projects"\Badaboom_Pizza_sim\Binaries\Win64/Badaboom_Pizza_sim-Win64-Shipping.exe -trace=default,memory""""""
+
+
+
