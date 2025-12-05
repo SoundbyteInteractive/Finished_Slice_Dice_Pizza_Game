@@ -34,6 +34,14 @@
 		{
 			"Name": "OnlineFramework",
 			"Enabled": true
+		},
+		{
+			"Name": "SteamSAL",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/2cf94d29-c41d-4be5-bdb4-377122a92d8d",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
 		}
 	],
 	"TargetPlatforms": [
